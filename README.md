@@ -1,5 +1,5 @@
 ## Movie App
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ad0ce242-4312-4c15-94fb-40700d827258/deploy-status)](https://app.netlify.com/sites/ecstatic-goldwasser-46fcfb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad0ce242-4312-4c15-94fb-40700d827258/deploy-status)](https://app.netlify.com/sites/movie-shows-app/deploys)
 ### Features
 1. Search Movies and Shows
 2. Display a nice courasel with cards of movies and shows
