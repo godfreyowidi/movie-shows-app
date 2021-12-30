@@ -8,4 +8,4 @@
 
 ### Installation
 - Download and run `npm i` or `npm install` to add dependancies on your code editor then run `npm start` or
-- You can simply click this link above interact with the app.
+- You can simply click this link https://movie-shows-app.netlify.app interact with the app.
